@@ -15,3 +15,10 @@ Learn GitHub flow -> commit changes to new branch for editing, then merge back t
 
 ## Step 4:
 Add *Front Matter* to an individual page to control variables on that page.
+
+## Step 5: 
+Observing how new pages are added to the layout. 
+* Questions:
+  * How to change the rendered navigation?
+  * How and where are certain variable being carried over to? I noticed some repetition I didn't add.
+  * How to create/format my own links?
