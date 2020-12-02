@@ -24,3 +24,4 @@ Observing how new pages are added to the layout.
     * Posts/pages are referenced my name and converted to **html* files so I can use that to link.
     * Any dashes used in the file name between numbers were converted to backslashes.
     * Dashes between words were left in place.
+  * Would creating new folders create new website navigation, such as an images folder to act as a photo album? Or is the folder structure strict?
