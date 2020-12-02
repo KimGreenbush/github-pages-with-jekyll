@@ -21,4 +21,5 @@ Observing how new pages are added to the layout.
 * Observations:
   * How to change the rendered navigation?
   * How and where are certain variable being carried over to? I noticed some repetition I didn't add.
+   * The page header and duplicates from the `index.md` file. Deletion causes a build error.
   * How to create/format my own links?
