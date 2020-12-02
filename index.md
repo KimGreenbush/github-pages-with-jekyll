@@ -6,3 +6,9 @@ What I've learned using this GitHub Pages tutorial.
 
 ## Step 1: 
 Create an `index.md` file for the *homepage*
+
+## Step 2:
+Congirure `_config.yml` file to set metadata in the header
+
+## Step 3:
+Learn GitHub flow -> commit changes to new branch for editing, then merge back to main when all changes are complete.
