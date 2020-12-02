@@ -12,3 +12,6 @@ Congirure `_config.yml` file to set metadata in the header
 
 ## Step 3:
 Learn GitHub flow -> commit changes to new branch for editing, then merge back to main when all changes are complete.
+
+## Step 4:
+Add *Front Matter* to an individual page to control variables on that page.
